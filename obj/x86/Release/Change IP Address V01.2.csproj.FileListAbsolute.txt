@@ -1,0 +1,37 @@
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\MainWindow.baml
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\MainWindow.g.cs
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\App.g.cs
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change_IP_Address_V01._2.Properties.Resources.resources
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address V01.2.csproj.GenerateResource.Cache
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.pdb
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address_MarkupCompile.cache
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.g.resources
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.exe
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.pdb
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe.config
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe.manifest
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.application
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.TrustInfo.xml
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.exe.manifest
+H:\Trever Stewart\Misc\C# Projects\BegVCSharp\Chap00\ChangeIPAddress\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.application
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe.config
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.exe
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.pdb
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe.manifest
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.application
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.pdb
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\MainWindow.baml
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\MainWindow.g.cs
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\App.g.cs
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address_MarkupCompile.cache
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.g.resources
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change_IP_Address_V01._2.Properties.Resources.resources
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address V01.2.csproj.GenerateResource.Cache
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.TrustInfo.xml
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.exe.manifest
+H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.application
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Release\Change IP Address.exe.config
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.exe
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Release\Change IP Address.pdb
