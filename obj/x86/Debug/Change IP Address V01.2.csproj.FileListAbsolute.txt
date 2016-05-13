@@ -26,3 +26,20 @@ H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Cha
 H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.application
 H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.exe
 H:\Trever Stewart\Misc\C# Projects\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.pdb
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Debug\Change IP Address.exe.config
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.exe
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.pdb
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Debug\Change IP Address.exe.manifest
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Debug\Change IP Address.application
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Debug\Change IP Address.exe
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\bin\Debug\Change IP Address.pdb
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\MainWindow.baml
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\App.g.cs
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address_MarkupCompile.cache
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.g.resources
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change_IP_Address_V01._2.Properties.Resources.resources
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address V01.2.csproj.GenerateResource.Cache
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.TrustInfo.xml
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.exe.manifest
+C:\Users\tstewart\Documents\Trever's Programs\Change IP Address\Change IP Address V01.2\Change IP Address V01.2\obj\x86\Debug\Change IP Address.application

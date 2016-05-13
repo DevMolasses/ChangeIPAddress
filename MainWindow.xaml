@@ -4,7 +4,7 @@
         Title="Change IP Address" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="163" d:DesignWidth="295" SizeToContent="WidthAndHeight">
     <Grid Height="80" Width="230">
         <RadioButton Content="DHCP" Height="17" HorizontalAlignment="Left" Margin="10,10,0,0" Name="autoIP" VerticalAlignment="Top" Width="55" Checked="autoIP_Checked" IsChecked="False" />
-        <RadioButton Content="Static (192.168.29.50)" Height="17" HorizontalAlignment="Left" Margin="80,10,0,0" Name="staticIP" VerticalAlignment="Top" Width="140" Checked="staticIP_Checked" />
+        <RadioButton Content="Static" Height="17" HorizontalAlignment="Left" Margin="80,10,0,0" Name="staticIP" VerticalAlignment="Top" Width="140" Checked="staticIP_Checked" />
         <Button Content="Done" Height="25" HorizontalAlignment="Left" Margin="80,37,0,0" Name="done" VerticalAlignment="Top" Width="60" Click="done_Click" />
     </Grid>
 </Window>

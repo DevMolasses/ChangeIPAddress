@@ -23,10 +23,13 @@ namespace Change_IP_Address_V01._2
     {
         bool isInitialized = false; //Boolean to keep radio buttons from executing during initialization
         private const string ADAPTER_NAME = "Local Area Connection";//Constant that gives the name of the adapter to change
+        private const string staticIp = "192.168.29.50"; //Define the static IP
+        private const string staticSubnet = "255.255.255.0"; //Define the static Subnet Mask
     
         public MainWindow()
         {
             InitializeComponent();
+            staticIP.Content = "Static (" + staticIp + ")"; // Display the defined static IP on the UI
             SetCurrentIPSetting(ADAPTER_NAME);//Gets the current IP setup and applies it to the Radio Buttons
             isInitialized = true;//Change boolean to indicate initialization is complete
         }
@@ -57,7 +60,7 @@ namespace Change_IP_Address_V01._2
         {
             if (isInitialized)
             {
-                setStaticIP("192.168.29.50", "255.255.255.0");
+                setStaticIP(staticIp, staticSubnet);
             }
         }
         /*
